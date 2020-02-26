@@ -1,0 +1,56 @@
+body {
+	width: 1500px;
+	padding-top: 300px;
+	background-image: url(imagecv/index/flexsite.png);
+  	background-repeat: no-repeat;
+  	background-position: 30% 50%;
+  	background-attachment: fixed;
+  	background-size: 1300px;
+}
+
+.text {
+	font-family: 'Archivo Black', sans-serif;
+	font-size: 49px;
+	color: black;
+	text-align: center;
+	width: 700px;
+	margin-top: -20px;
+	margin-left: 290px;
+	margin-right: 450px;
+}
+
+.line5 {
+	width: 555px;
+	height: 47px;
+	border-bottom: 25px solid yellow;
+	position: absolute;
+	margin-top: -95px;
+	margin-left: 363px;
+	z-index: -1;
+}
+
+a {
+	text-decoration: none;
+	color: black;
+}
+
+.text2 {
+	width: 700px;
+	white-space: nowrap;
+	margin-left: 750px;
+	z-index: 2;
+	margin-top: 300px; 
+	font-family: 'Archivo Black', sans-serif;
+	font-size: 40px;
+	color: black;
+}
+
+.line6 {
+	width: 449px;
+	height: 47px;
+	border-bottom: 25px solid yellow;
+	position: absolute;
+	margin-left: 751px;
+	margin-top: -110px;
+	z-index: -1;
+}

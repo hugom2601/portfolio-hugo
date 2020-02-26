@@ -1,0 +1,157 @@
+body{
+	width: 100%;
+	margin: 0px
+}
+
+.hugom {
+	height: 0px;
+	padding-left: 500px;
+	padding-right: 500px;
+}
+
+a {
+	text-decoration: none;
+	color: black;
+}
+
+.navbar {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	width: 100%;
+	height: 80px;
+	text-align: center;
+	position: sticky;
+	top: 0px;
+	z-index: 6;
+	margin-left: 0px;
+	margin-top: 80px;
+	background-color: white;
+	font-family: 'Archivo Black', sans-serif;
+	white-space: nowrap;
+	color: black;
+	border-bottom: 1px solid black;
+}
+
+#ttd, #wts, #ptg, #pys, #gi {
+	height: 31px;
+	width: 20%;
+	white-space: none;
+	margin-top: -1px;
+	margin-left: 10px;
+	margin-right: -20px;
+	color: #454545;
+	padding: 33px 0px 17px;
+}
+
+#ttd:hover{
+	color: white;
+	background-color: yellow;
+}
+
+#wts:hover{
+	color: white;
+	background-color: yellow;
+}
+
+#ptg:hover{
+	color: white;
+	background-color: yellow;
+}
+
+#pys:hover{
+	color: white;
+	background-color: yellow;
+}
+
+#gi:hover{
+	color: white;
+	background-color: yellow;
+}
+
+
+.centraltext {
+	text-align: center;
+	font-family: 'Merriweather', serif;
+	font-size: 16px;
+	margin-top: 70px;
+}
+
+.introtitle {
+	font-family: 'Archivo Black', sans-serif;
+	font-size: 20px;
+	margin-top: 90px;
+	margin-bottom: 80px;
+	margin-left: 25px;
+	font-weight: bold;
+	border-bottom: 3px solid black;
+	width: 50%;
+}
+
+.container2 {
+	margin-right: 0px;
+	width: 1450px;
+}
+
+.scroll { 
+	width: 100%;
+	overflow: auto;
+	white-space: nowrap;
+	justify-content: space-around;
+	margin-top: 40px;
+}
+
+.linebas1 {
+	border-bottom: 3px solid black;
+	width: 45%;
+	margin-left: 750px;
+	margin-top: 105px;
+	font-family: 'Archivo Black', sans-serif;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: right;
+}
+
+.scroll2 { 
+	width: 100%;
+	overflow: auto;
+	white-space: nowrap;
+	justify-content: space-around;
+	margin-top: 80px;
+}
+
+.introtitle2 {
+	font-family: 'Archivo Black', sans-serif;
+	font-size: 20px;
+	margin-top: 105px;
+	margin-left: 25px;
+	font-weight: bold;
+	border-bottom: 3px solid black;
+	width: 50%;
+}
+
+.scroll3 { 
+	width: 100%;
+	overflow: auto;
+	white-space: nowrap;
+	justify-content: space-around;
+	margin-top: 80px;
+}
+
+.bottom {
+	height: 120px;
+	background-color: black;
+	margin-top: 85px;
+	width: 100%;
+}
+
+.greyarrow{
+	text-align: center;
+
+}
+
+.top {
+	color: grey;
+	font-family: 'Archivo Black', sans-serif;
+	margin-top: -27px;
+}

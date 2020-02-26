@@ -1,0 +1,316 @@
+body{
+	width: 100%;
+	margin: 0px
+}
+
+.hugom {
+	height: 0px;
+	padding-left: 500px;
+	padding-right: 500px;
+}
+
+a {
+	text-decoration: none;
+	color: black;
+}
+
+.navbar {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	width: 100%;
+	height: 80px;
+	text-align: center;
+	position: sticky;
+	top: 0px;
+	z-index: 6;
+	margin-left: 0px;
+	margin-top: 80px;
+	background-color: white;
+	font-family: 'Archivo Black', sans-serif;
+	white-space: nowrap;
+	color: black;
+	border-bottom: 1px solid black;
+}
+
+#ttd, #wts, #ptg, #pys, #gi {
+	height: 31px;
+	width: 20%;
+	white-space: none;
+	margin-top: -1px;
+	margin-left: 10px;
+	margin-right: -20px;
+	color: #454545;
+	padding: 33px 0px 17px;
+}
+
+#ttd:hover{
+	color: white;
+	background-color: yellow;
+}
+
+#wts:hover{
+	color: white;
+	background-color: yellow;
+}
+
+#ptg:hover{
+	color: white;
+	background-color: yellow;
+}
+
+#pys:hover{
+	color: white;
+	background-color: yellow;
+}
+
+#gi:hover{
+	color: white;
+	background-color: yellow;
+}
+
+.centraltext {
+	text-align: center;
+	font-family: 'Merriweather', serif;
+	font-size: 20px;
+	margin-top: 45px;
+}
+
+/* COFFEE SHOP */
+
+.introtitle {
+	font-family: 'Archivo Black', sans-serif;
+	font-size: 20px;
+	margin-top: 70px;
+	margin-left: 25px;
+	font-weight: bold;
+	border-bottom: 3px solid black;
+	width: 50%;
+}
+
+.logomad {
+	margin-top: 50px;
+	margin-left: 50px;
+}
+
+.madintro {
+	margin-top: -165px;
+	margin-left: 680px;
+	font-family: 'Merriweather', serif;
+	font-size: 18px;
+}
+
+.madtext2 {
+	margin-top: 200px;
+	margin-left: 70px;
+	font-family: 'Merriweather', serif;
+	font-size: 18px;
+}
+
+.visite {
+	margin-top: -150px;
+	margin-left: 850px;
+}
+
+.linebas1 {
+	border-top: 3px solid black;
+	width: 30%;
+	margin-left: 1000px;
+	margin-top: 70px; 
+}
+
+.comingsoon {
+	margin-top: -70px;
+}
+
+.madtext3 {
+	margin-top: -360px;
+	margin-left: 680px;
+	font-family: 'Merriweather', serif;
+	font-size: 18px;
+}
+
+.personas {
+	margin-top: 150px;
+	margin-left: 550px;
+}
+
+.julie {
+	margin-top: -200px;
+	margin-left: 850px;
+}
+
+.keywords {
+	margin-top: -550px;
+	margin-left: 980px;
+}
+
+.darling {
+	margin-top: 20px;
+	margin-left: 1120px;
+}
+
+/* WETSUIT */
+
+.introtitle3 {
+	font-family: 'Archivo Black', sans-serif;
+	font-size: 20px;
+	margin-top: 70px;
+	margin-left: 25px;
+	margin-bottom: 70px;
+	font-weight: bold;
+	border-bottom: 3px solid black;
+	width: 50%;
+}
+
+.atltext {
+	margin-top: 50px;
+	margin-left: 680px;
+	font-family: 'Merriweather', serif;
+	font-size: 18px;
+}
+
+.patron {
+	margin-top: -120px;
+	margin-left: 50px;
+}
+
+.design {
+	margin-top: -270px;
+	margin-left: 650px;
+	margin-bottom: 70px;
+}
+
+.logoatl {
+	margin-top: -520px;
+	margin-left: 250px;
+	margin-bottom: 50px;
+}
+
+.linebas2 {
+	border-top: 3px solid black;
+	width: 40%;
+	margin-left: 860px;
+	margin-top: 120px; 
+}
+
+.atltext2 {
+	margin-top: 130px;
+	margin-left: 70px;
+	font-family: 'Merriweather', serif;
+	font-size: 18px;
+}
+
+.yulex {
+	margin-top: -170px;
+	margin-left: 850px;
+}
+
+/* SMALL COMPANIES */
+
+.introtitle2 {
+	font-family: 'Archivo Black', sans-serif;
+	font-size: 20px;
+	margin-top: 150px;
+	margin-left: 25px;
+	font-weight: bold;
+	border-bottom: 3px solid black;
+	width: 50%;
+}
+
+.nheralogo {
+	margin-top: 170px;
+	margin-left: 50px;
+}
+
+.nheraintro {
+	margin-top: -300px;
+	margin-left: 680px;
+	font-family: 'Merriweather', serif;
+	font-size: 18px;
+}
+
+.nheravisu {
+	margin-top: 50px;
+	margin-left: 650px;
+}
+
+.nheratext2 {
+	margin-top: 300px;
+	margin-left: 70px;
+	font-family: 'Merriweather', serif;
+	font-size: 18px;
+}
+
+.bps {
+	margin-top: -200px;
+	margin-left: 650px;
+	z-index: 5;
+}
+
+.googleads {
+	margin-top: -350px;
+	margin-left: 850px;
+}
+
+.owl {
+	margin-top: -50px;
+	margin-left: 1050px;
+	z-index: 10;
+}
+
+.owlpost {
+	margin-top: -120px;
+	margin-left: 720px;
+	z-index: -10;
+}
+
+/* CHRISTMAS CAMPAIGN */
+
+.title2 {
+	font-family: 'Archivo Black', sans-serif;
+	font-size: 20px;
+	margin-top: 70px;
+	margin-left: 25px;
+	font-weight: bold;
+	border-bottom: 3px solid black;
+	width: 50%;
+}
+
+.nheratext3 {
+	margin-top: 100px;
+	margin-left: 760px;
+	font-family: 'Merriweather', serif;
+	font-size: 18px;
+}
+
+.vignette {
+	margin-top: -180px;
+	margin-bottom: 100px;
+	margin-left: 50px;
+}
+
+.santad {
+	margin-left: 700px;
+	margin-top: -450px;
+	margin-bottom: 180px;
+}
+
+/* FOOTER */
+
+.bottom {
+	height: 120px;
+	background-color: black;
+	margin-top: 50px;
+	width: 100%;
+}
+
+.greyarrow{
+	text-align: center;
+}
+
+.top {
+	color: grey;
+	font-family: 'Archivo Black', sans-serif;
+	margin-top: -27px;
+}
